@@ -1,0 +1,6 @@
+{
+  "name": "AI MOVIE RECAP STUDIO",
+  "description": "Professional Myanmar Subtitle, Movie Recap, and Single-Voice AI Dubbing Studio powered by FFmpeg, Gemini, and Groq.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
